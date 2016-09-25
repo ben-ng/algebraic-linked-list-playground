@@ -1,2 +1,3 @@
-# algebraic-linked-list-playground
-A linked list implemented as an Algebraic Data Type in Swift
+# Linked List Algebraic Data Type Playground
+
+A playground with a linked list implemented as an Algebraic Data Type in Swift.
